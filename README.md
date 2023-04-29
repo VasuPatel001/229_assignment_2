@@ -1,4 +1,4 @@
-# CS229 Problem Set Instructions
+# CS229 - Perceptron, NN, Naive Bayes Problem Set Instructions
 
 
 ## Setup for Written Parts
